@@ -1,6 +1,6 @@
 # Pandemic Tracker
 
-This is my first web app. It's a simple 2 pages website that displays Brazil's pandemic data (through an API:https://covid19-brazil-api.now.sh/), based on your choice. You can choose to display all the states at once or one just one state at a time.
+This is my first web app. It's a simple 2 pages website that displays Brazil's pandemic data (through an API:https://covid19-brazil-api.now.sh/), based on your choice. You can choose to display all the states at once or just one state at a time.
 
 ## Project setup
 
